@@ -12,22 +12,22 @@ function Card() {
             <img className="w-32 mx-auto shadow-xl rounded-full drop-shadow-sm" src={image1} alt="photo" />
             </div>
             <div className="text-center mt-5">
-                             <p className='text-xl sm:text-2xl font-semibold text-gray-900'>
+                             <p className='text-xl sm:text-3xl font-semibold text-gray-900'>
                              Harshit Singh
                              </p>
                              <p className='text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-4'>
                              Frontend Developer/Programmer 
                             </p>
                <div className="flex align-center justify-center mt-4">
-                  <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" href="">
+                  <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-gray-800 hover:bg-gray-800 rounded-full hover:text-white transition-colors duration-300" href="https://github.com/harshitg1">
                    <FaGithub />
                  <span class="sr-only">Github</span>
                   </a>
-                <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-yellow-300 hover:bg-yellow-300 rounded-full hover:text-white transition-colors duration-300" href="">
+                <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-yellow-300 hover:bg-yellow-300 rounded-full hover:text-white transition-colors duration-300" href="https://leetcode.com/harshit04/">
                    <SiLeetcode />
                   <span class="sr-only"></span>
                  </a>
-             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="">
+             <a className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-blue-500 hover:bg-blue-500 rounded-full hover:text-white transition-colors duration-300" href="https://www.linkedin.com/in/harshit-singh-6985701ba">
                    <BsLinkedin/>
                   <span class="sr-only">Linkedin</span>  
             </a> 

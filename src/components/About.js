@@ -12,7 +12,7 @@ function About() {
         <p className="text-base text-left md:text-center  text-gray-500 leading-relaxed mt-4 justify-center">
         I'm a currently a prefinal year undergard at IIIT ranchi.
         Web developing and competitive coding are my areas of interests. 
-         <p > I also love freelancing and contributing to open-source projects.  </p> 
+         <p > Inclined to learning new technologies .  </p> 
 
         </p>
         {/* <ScrollIntoView selector = "#tech">
